@@ -23,3 +23,8 @@ C# - .NET Core 6 - RazorPage
 XML
 </li>
 </div>
+
+<div>
+<img src="screenshoots/Notepad.png" alt="About page">
+<img src="screenshoots/About.png" alt="About page">
+</div>
