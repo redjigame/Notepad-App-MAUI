@@ -6,7 +6,7 @@ This is a .NET Multi-platform App UI (.NET MAUI) app that only uses cross-platfo
 The app i created is a note taking app, where the user can create, save, and load multiple notes.
 
 BR/PT - 
-Isso é um Applicativo .NET Multi-Plataforma UI (.NET MAUI) que usa apenas código multiplataforma> Isso significa que o código que eu escrevi não será específico para o Windows, Android, IOS ou macOS.
+Isso é um Applicativo .NET Multi-Plataforma UI (.NET MAUI) que usa apenas código multiplataforma. Isso significa que o código que eu escrevi não será específico para o Windows, Android, IOS ou macOS.
 O aplicativo que eu criei é um aplicativo de anotações onde o usuário pode criar, salvar e carregar várias notas.
 
 FR - 
